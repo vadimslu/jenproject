@@ -14,8 +14,7 @@ RUN apt-get update && \
       php5-gd \
       php5-json \
       php5-ldap \
-      php5-mysql \
-      php5-pgsql
+      php5-mysql 
 
 
 EXPOSE 80
